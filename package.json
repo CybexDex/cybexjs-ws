@@ -1,0 +1,15 @@
+{
+  "name": "cybexjs-ws",
+  "version": "1.0.0",
+  "description": "the websocket utils for Cybex. Forked from bitsharesjs-ws, fit for Cybex.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CybexDex/cybexjs-ws.git"
+  },
+  "author": "CybexDex",
+  "license": "MIT"
+}
