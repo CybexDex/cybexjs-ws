@@ -66,7 +66,7 @@ class ChainWebSocket {
                         }
                         this.send_life = max_send_life;
                     }
-                }, 5000);
+                }, 3000);
                 resolve();
             }
             this.ws.onerror = (error) => {
